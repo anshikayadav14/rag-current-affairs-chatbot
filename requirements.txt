@@ -1,0 +1,8 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+wikipedia-api
+transformers
+torch
+gradio
